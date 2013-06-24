@@ -7,23 +7,21 @@ Project: caetie ofiesh portfolio site
 /* BASE STYLES */
 
 body {
-	background: url("../images/1-scene.jpg");
-	/* this next step makes a background image responsive */
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
-	background: black;
+	background: white;
 	font-family: Helvetica, sans-serif;
-	font-weight: 300;
-	color: white;
+	font-weight: 400;
+	color: black;
 	line-height: 1.5;
-	padding-left: 30px;
-	padding-right: 200px;
+	padding-left: 60px;
+	padding-right: 400px;
 }
 
 h1 {
 	font-size: 80px;
-	color: red;
+	color: #571B7E; /* purple iris */
 	font-family: Helvetica, sans-serif;
 	font-weight: 500;
 	padding-left: 15px;
@@ -37,6 +35,7 @@ h2 {
 	padding-left: 15px;
 	line-height: 1.2;
 	margin-bottom: 2px;
+	color: #571B7E; /* purple iris */
 }
 
 h3 {
@@ -56,8 +55,12 @@ h4 {
 }
 
 a {
-	color: white;
-	text-decoration: none;
+	color: black;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #571B7E; /* purple iris */
 }
 
 p {
@@ -65,7 +68,7 @@ p {
 }
 
 p.no-margin {
-	margin:0;
+	margin: 0;
 }
 
 p.right {
@@ -73,18 +76,35 @@ p.right {
 }
 
 p.bio {
-	padding-left: 15px;
+	padding-left: 60px;
+	margin: 0;
 }
 
 #main {
-	background: black;
-	color: white;
+	background: white;
+	color: black;
 }
 
+/*
+#bio {
+	background: black;
+	color: white;
+	padding: 20px;
+}
+*/
+
 #footer {
-	background: #0404B4;
+	background: #571B7E; /* purple iris */
 	padding: 15px;
 	text-align: right;
 	padding-right: 30px;
 }
+
+/* Purples:
+#571B7E	Purple Iris (medium dark, with reds)
+#7D1B7E	Dark Orchid (lighter, with reds)
+#461B7E	Purple Monster (darker)
+#4B0082	Indigo (darkest)
+#7D0552 Plum Velvet (lightest, lots of red)
+*/
  
