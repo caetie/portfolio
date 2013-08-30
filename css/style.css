@@ -28,13 +28,12 @@ h1 {
 	font-weight: 500;
 	padding-left: 15px;
 	line-height: 1.2;
-	margin-top: 20px;
 	margin-bottom: 1px;
 }
 
 h2 {
 	font-size: 26px;
-	padding-left: 15px;
+	padding-left: 145px;
 	line-height: 1.2;
 	margin-bottom: 2px;
 	color: #571B7E; /* purple iris */
@@ -42,18 +41,18 @@ h2 {
 
 h3 {
 	font-size: 18px;
-	padding-left: 15px;
+	padding-left: 145px;
 	line-height: 1.2;
 	margin-top: 12px;
 	margin-bottom: 6px;
 }
 
 h4 {
-	font-size: 20px;
+	font-size: 26px;
 	font-weight: 400;
 	padding-left: 15px;
-	line-height: 1.2;
-	margin-top: 3px;
+	line-height: 1.0;
+	margin-top: 1px;
 }
 
 a {
@@ -66,11 +65,12 @@ a:hover {
 }
 
 p {
-	padding-left: 60px;
+	padding-left: 145px;
 }
 
 p.no-margin {
 	margin: 0;
+	padding-left: 145px;
 }
 
 p.right {
@@ -78,8 +78,12 @@ p.right {
 }
 
 p.bio {
-	padding-left: 60px;
+	padding-left: 145px;
 	margin: 0;
+}
+
+p.messing {
+	padding-left: 145px;
 }
 
 #main {
@@ -94,6 +98,11 @@ p.bio {
 	padding: 20px;
 }
 */
+
+#header {
+	padding-left: 130px;
+	line-height: 1.0;
+}
 
 #footer {
 	background: #571B7E; /* purple iris */
