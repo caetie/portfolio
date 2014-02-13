@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"Padding",
+				"padding-left"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"pading-",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"border-r",
+				"border-bottom-right-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1662,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/training/1-trainingmaterials.rst",
+		"/Users/CMOfiesh/Desktop/wfp dashboard testing/Water For People upgrade, initial review",
+		"/Users/CMOfiesh/Desktop/Water For People upgrade, initial review",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/3-devices.rst",
+		"/Users/CMOfiesh/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/6-maps.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/4-data.rst",
+		"/Users/CMOfiesh/Desktop/FLOW Dashboard v1.6.1 and Field Survey app v1.11.1",
+		"/Users/CMOfiesh/Downloads/RAW_DATA_TEXT-1591009.txt",
+		"/Users/CMOfiesh/Downloads/RAW_DATA_TEXT-1561005.txt",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/2-surveys.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/7-users.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/92-troubleshooting.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/91-settings-and-preferences.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/6-post-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/5-conducting-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-surveys-to-device.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/3-launching-app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/1-phone-requirements.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/92-troubleshooting/1-phone-dashboard-connection.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/92-troubleshooting/1-saving-surveys.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/6-post-survey/2-7-clearing-phone-data.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/5-conducting-survey/5-4-checking-survey-status.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/5-conducting-survey/5-3-saving-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/5-conducting-survey/5-2-submitting-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/5-conducting-survey/5-1-navigating-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-surveys-to-device/4-1-getting-surveys-on-device.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/3-launching-app/3-3-updating-survey-app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/3-launching-app/3-2-setting-up-users.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/3-launching-app/3-1-launching-survey-app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-2-install-app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-1-before-install-app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/4-checking-survey-status.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/4-3-saving-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/4-2-submitting-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/1-navigating-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/4-1-navigating-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/9-submitting-survey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/6-languages.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/5-survey-help-items.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/4-dependent-questions.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/3-mandatory-questions.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/4-conducting-survey/2-question-types.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/field_survey_app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/3-getting-surveys-on-device.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-3-launching-survey-app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-7-clearing-phone-data.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-4-setting-up-users.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-5-updating-survey-app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/7-managing-users.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/3-installing-survey-app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-8-external-backup-power.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-7-battery-management.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-6-managing-files.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-5-barcodes.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-4-camera.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/fieldapp/2-preparing-device/2-3-GPS-basics.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard.rst",
+		"/Users/CMOfiesh/Documents/repos/portfolio/index.html",
+		"/Users/CMOfiesh/Documents/repos/portfolio/css/style.css",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/9-troubleshooting.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/8-messages.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/5-reports.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic/dashboard/1-overview.rst",
+		"/Users/CMOfiesh/Documents/Akvo/Repos/akvo-flow-docs/docs/topic-based-help.rst",
+		"/Users/CMOfiesh/Documents/caetieofiesh.com/css/style.css",
+		"/Users/CMOfiesh/Documents/caetieofiesh.com/index.html",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/mailer-source/thankyou.php",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/derby-jackpot-cmo/index.html",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/mailer-source/css/style.css",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/mailer-source/index.php",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/basic.php",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/mailer-source/index.html",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/derby-jackpot/index.html",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/derby-jackpot/css/style.css",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/derby-jackpot-complete/index.html",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/derby-jackpot-complete/css/style.css",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/kermit/readme.html",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/lost-cat/kittens.com/index.html",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/lost-cat/kittens.com/css/normalize.css",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/lost-cat/kittens.com/css/style.css",
+		"/Users/CMOfiesh/Desktop/GA_pnfp/index.html",
+		"/Users/CMOfiesh/Desktop/GA_htmlcss/cookie-monster/css/style.css",
+		"/Users/CMOfiesh/Desktop/GA_htmlcss/cookie-monster/css/index.html",
+		"/Users/CMOfiesh/Downloads/cookie-monster/readme.html",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow/RELEASE_NOTES_server.md",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow/RELEASE_NOTES_app.md",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic-updated.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/fieldapp/FieldAppOverview.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/development.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic-based-help.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/field_survey_app.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/welcome.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/fieldapp/GettingStarted.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/fieldapp/CollectingSurveyData.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/survey_reports.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/manage_web_surveys.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/manage_surveys.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/import_data.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/AssignSurveystoDevices.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/AdminWizard.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/7-mapping.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/1-overview.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/SurveyReports/SurveyReports.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/SurveyReports/RunReports.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/SurveyReports/GenerateSurveyForm.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/SurveyReports/CleanReportData.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageUsers/TasksandPermissions.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageUsers/ManageUsersOverview.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageUsers/manage_users.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageUsers/CreateAUser.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/PublishSurvey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/ManageSurveys.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/edit_survey_details.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/CreateSurveys.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/CreateNewSurveyFromExisting.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/EditSurveyDetails/QuestionTypes.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/EditSurveyDetails/ManageNotifications.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/EditSurveyDetails/EditTranslations.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/EditSurveyDetails/EditHelpMedia.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/EditSurveyDetails/CreateQuestionGroup.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/EditSurveyDetails/AddQuestionsToSurvey.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ImportData/ImportData.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ImportData/ImportMultipleFiles.rst",
+		"/Users/CMOfiesh/Documents/Akvo/akvo-flow-docs/docs/topic/dashboard/ManageSurveys/EditSurveyDetails/AddQuestionsToQuestionGroup.rst"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"based",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 1662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
